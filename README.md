@@ -1,8 +1,8 @@
 # Xcode color schemes for Android Studio
 
-- Xcode-Light.icls: a mod of [GitHub (Material)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- Xcode-Dark-Purple.icls: a mod of [Xcode-Dark](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme)
-- theme-mappings.numbers: how Xcode color schemes are mapped to Android Studio's, plus Howto instructions.
+- `Xcode-Light.icls`: a mod of [GitHub (Material)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+- `Xcode-Dark-Purple.icl`: a mod of [Xcode-Dark](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme)
+- `theme-mappings.numbers`: how Xcode color schemes are mapped to Android Studio's, plus Howto instructions.
 
 ### Installation
 
@@ -14,13 +14,13 @@ Click `Apply`, then `OK`.
 
 ### Light schemes
 
-| Xcode (Light) | Xcode-Light | GitHub (Material) |
+| Xcode (Light) | Xcode-Light | [GitHub (Material)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) |
 |:-------------:|:----------------------------:|:----------------------------------:|
 |![Xcode (Light)](https://eecs441.eecs.umich.edu/img/theme-mapping/XcodeLight.png)|![Xcode-Light](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Light.png)|![GitHub (Material)](https://eecs441.eecs.umich.edu/img/theme-mapping/GitHub-Material.png)
 
 ### Dark schemes
 
-| Xcode (Dark) | Xcode-Dark-Purple | Xcode-Dark |
+| Xcode (Dark) | Xcode-Dark-Purple | [Xcode-Dark](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme) |
 |:-------------:|:----------------------------------:|:----------------------------------:|
 |![Xcode (Dark)](https://eecs441.eecs.umich.edu/img/theme-mapping/XcodeDark.png)|![Xcode-Dark-Purple](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Dark-Purple.png)|![Xcode-Dark](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Dark.png)
 
