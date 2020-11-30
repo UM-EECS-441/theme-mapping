@@ -5,7 +5,7 @@ Android Studio 4.1.1 Themes:
 - Xcode-Dark-Purple.icls: a mod of [Xcode-Dark](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme)
 - theme-mappings.numbers: how Xcode color schemes are mapped to Android Studio's, plus Howto instructions.
 
-# Installation
+### Installation
 
 To import new color scheme into Android Studio:
 
@@ -13,13 +13,13 @@ To import new color scheme into Android Studio:
 
 Click `Apply`, then `OK`.
 
-# Light Themes
+### Light Themes
 
 | Xcode (Light) | Xcode-Light | GitHub (Material) |
 |:-------------:|:----------------------------:|:----------------------------------:|
 |![Xcode (Light)](https://eecs441.eecs.umich.edu/img/theme-mapping/XcodeLight.png)|![Xcode-Light](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Light.png)|![GitHub (Material)](https://eecs441.eecs.umich.edu/img/theme-mapping/GitHub-Material.png)
 
-# Dark Themes
+### Dark Themes
 
 | Xcode (Dark) | Xcode-Dark-Purple | Xcode-Dark |
 |:-------------:|:----------------------------------:|:----------------------------------:|
