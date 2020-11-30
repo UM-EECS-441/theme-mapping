@@ -13,5 +13,17 @@ To import new color scheme into Android Studio:
 
 Click `Apply`, then `OK`.
 
+# Light Themes
+
+| Xcode (Light) | Xcode-Light | GitHub (Material) |
+|:-------------:|:----------------------------:|:----------------------------------:|
+|![Xcode (Light)](https://eecs441.eecs.umich.edu/img/theme-mapping/XcodeLight.png)|![Xcode-Light](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Light.png)|![GitHub (Material)](https://eecs441.eecs.umich.edu/img/theme-mapping/GitHub-Material.png)
+
+# Dark Themes
+
+| Xcode (Dark) | Xcode-Dark-Purple | Xcode-Dark |
+|:-------------:|:----------------------------------:|:----------------------------------:|
+|![Xcode (Dark)](https://eecs441.eecs.umich.edu/img/theme-mapping/XcodeDark.png)|![Xcode-Dark-Purple](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Dark-Purple.png)|![Xcode-Dark](https://eecs441.eecs.umich.edu/img/theme-mapping/Xcode-Dark.png)
+
 <hr>
 Last updated 30 November 2020
