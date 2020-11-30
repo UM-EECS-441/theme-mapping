@@ -2,7 +2,7 @@
 
 - `Xcode-Light.icls`: a mod of [GitHub (Material)](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 - `Xcode-Dark-Purple.icl`: a mod of [Xcode-Dark](https://plugins.jetbrains.com/plugin/13106-xcode-dark-theme)
-- `theme-mappings.numbers`: Xcode color scheme mappings to Android Studio's, plus Howto instructions.
+- `theme-mappings.numbers`: Xcode's themes mapping to Android Studio's color schemes; including Howto instructions.
 
 ### Installation
 
