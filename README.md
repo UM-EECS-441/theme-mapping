@@ -11,5 +11,7 @@ To import new color scheme into Android Studio:
 
 `Android Studio > Preferences > Editor > Color Scheme > “Show Scheme Actions” [drop down icon] > Import Scheme…"`
 
+Click `Apply`, then `OK`.
+
 <hr>
-Last updated 29 November 2020
+Last updated 30 November 2020
